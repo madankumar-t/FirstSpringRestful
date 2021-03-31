@@ -12,5 +12,4 @@ phases:
 artifacts:
   files:
     - target/FirstSpringRestful-0.0.1-SNAPSHOT.jar
-    - echo Deploying 
   discard-paths: yes

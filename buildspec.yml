@@ -11,5 +11,5 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/FirstSpringRestful-0.0.1-SNAPSHOT.jar
+    - target/FirstSpringRestful-0.0.1-SNAPSHOT.war
   discard-paths: yes
